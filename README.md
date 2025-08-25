@@ -7,4 +7,7 @@ When it asks for an IPSW file, select the one for your device. It must be an IPS
 This is mainly a proof of concept that you should be able to make a DFU IPSW and restore it without needing pwndfu mode on 64-bit iDevices.
 If you have any questions, please let me know.
 
+After the DFU IPSW is built, you can restore it via idevicerestore. You will lose your data when you do this.
+IPSW name for the DFU ipsw will be: DFU_Custom.ipsw
+
 This project is licensed under the GNU General Public License v3.0.
