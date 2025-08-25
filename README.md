@@ -9,6 +9,7 @@ If you have any questions, please let me know.
 
 After the DFU IPSW is built, you can restore it via idevicerestore. You will lose your data when you do this.
 IPSW name for the DFU ipsw will be: DFU_Custom.ipsw
+
 I only recommend using this if the buttons that are required to go into DFU mode normally are broken on your device.
 
 This project is licensed under the GNU General Public License v3.0.
