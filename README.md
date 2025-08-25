@@ -1,5 +1,6 @@
 # dfuipswbuilder-64bit
 This tool can build a DFU IPSW for 64-bit Apple Devices. I have only tested it on A10 as of right now. It should work for A7 and newer, but I am not entirely sure. If you restore your device with a DFU IPSW, your device will be stuck in DFU mode afterwards.
+I recommend using this with a Linux distro.
 
 To install this builder, clone it from this REPO, and then run chmod +x DFUipsw.sh, then type ./DFUipsw.sh (Enter sudo password when prompted to)
 When it asks for an IPSW file, select the one for your device. It must be an IPSW for the latest iOS version at the moment.
